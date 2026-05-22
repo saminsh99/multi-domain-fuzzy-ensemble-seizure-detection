@@ -56,3 +56,5 @@ The dataset is not included in this repository. Users should download the datase
 ├── C/
 ├── D/
 └── E/
+
+Note: Some implementation parameters in this repository may differ from the final experimental settings reported in the paper; therefore, reproduced results may vary.
