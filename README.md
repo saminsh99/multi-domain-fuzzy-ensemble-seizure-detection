@@ -44,13 +44,13 @@ The classification framework is based on Adaptive Neuro-Fuzzy Inference System (
 
 Different meta-classifiers were evaluated in the original study, including KNN, SVM, TreeBagger, ANN, and ANFIS.
 
-Dataset
+# Dataset
 
 This study uses the Bonn EEG dataset for epileptic seizure detection.
 
 The dataset is not included in this repository. Users should download the dataset from its official source and place the files in the following structure:
 ( converted the dataset to .mat format )
-# data/
+## data/
 ├── A/
 ├── B/
 ├── C/
